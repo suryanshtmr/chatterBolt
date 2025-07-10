@@ -1,7 +1,7 @@
 #
 # ⚡ ChatterBolt – Real-Time Full Stack Chat App
 
-> A sleek, real-time chat platform built using **Node.js**, **Express**, and **Socket.io**.  
+> A sleek, real-time chat platform built using **Node.js**, **Express**, and **Socket.io**. 
 > Experience instant messaging in a clean and responsive interface.
 
 ---
