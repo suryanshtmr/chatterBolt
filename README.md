@@ -17,7 +17,7 @@
 
 | Frontend       | Backend           | Real-time Engine | Styling     |
 |----------------|-------------------|------------------|-------------|
-| HTML, CSS, JS  | Node.js, Express  | Socket.io        | Custom CSS / Bootstrap |
+| Vanilla React JS  | Node.js, Express  | Socket.io        | Custom CSS / Bootstrap |
 
 ---
 
